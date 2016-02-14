@@ -1,0 +1,5 @@
+C:\Users\Thomas\Documents\I4\MultiThreading\TP4\Class\bin\Debug\Class.dll
+C:\Users\Thomas\Documents\I4\MultiThreading\TP4\Class\bin\Debug\Class.pdb
+C:\Users\Thomas\Documents\I4\MultiThreading\TP4\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\I4\MultiThreading\TP4\Class\obj\Debug\Class.dll
+C:\Users\Thomas\Documents\I4\MultiThreading\TP4\Class\obj\Debug\Class.pdb
